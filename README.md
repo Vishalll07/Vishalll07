@@ -1,8 +1,8 @@
  Hello  👋, this is Vishal
  
 
+![GITHUB (2)](https://user-images.githubusercontent.com/78494000/119272064-e06b4080-bc21-11eb-83aa-06479cc1b79d.jpg)
 
-![GITHUB](https://user-images.githubusercontent.com/78494000/119271746-7900c100-bc20-11eb-81e7-4becdae61c2e.jpg)
 
 
 - 🌱 I’m currently learning **JAVA,ANDRIOD DEVELOPMENT**
@@ -21,14 +21,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal gagan sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vishal gagan sahoo" height="30" width="40" /></a>
-<a href="https://fb.com/vishal sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="vishal sahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/_thevishal.lllll_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="_thevishal.lllll_07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishal gagan sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="vishal gagan sahoo" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishal gagan sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="vishal gagan sahoo" height="30" width="40" /></a>
+
+ ![image](https://user-images.githubusercontent.com/78494000/119272267-c67e2d80-bc22-11eb-84eb-d57c7c7d4175.png)
+<https://www.linkedin.com/in/vishal-gagan-sahoo-7b0b05208/>
+
+![image](https://user-images.githubusercontent.com/78494000/119272279-d0a02c00-bc22-11eb-9c8c-6b2ebe12f65c.png)
+<https://www.facebook.com/profile.php?id=100008276974111>
+
+ ![image](https://user-images.githubusercontent.com/78494000/119272297-e0b80b80-bc22-11eb-9c0b-160e35476884.png)
+<https://www.instagram.com/_thevishal.lllll_07/>
+
+ ![image](https://user-images.githubusercontent.com/78494000/119272322-fa595300-bc22-11eb-9bf7-3420be62b6cf.png)
+<https://www.hackerrank.com/bhagis052>
+
+![image](https://user-images.githubusercontent.com/78494000/119272228-9d5d9d00-bc22-11eb-9f9f-343387ae3769.png)
+ <https://auth.geeksforgeeks.org/user/bhagis052/practice/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80"/> 
+ </a>        
+ <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
+ </a> 
+ <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height=80"/> </a> </p>
 
 
