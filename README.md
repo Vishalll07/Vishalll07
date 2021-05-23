@@ -1,4 +1,4 @@
- Hiii there 👋, this is Vishal
+ Hello  👋, this is Vishal
  
 
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write coding on [Eclipse,Intellij](Eclipse,Intellij)
 
-- 💬 Ask me about **CR7,Photography, Editing,Football.**  ![GITHUB3 (2)](https://user-images.githubusercontent.com/78494000/119271764-93d33580-bc20-11eb-8dbb-dfa48763b461.jpg)
+- 💬 Ask me about **CR7,Photography, Editing,Football.** 
 
 - 📫 How to reach me **bhagis052@gmail.com**
 
