@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Cloning Apps,Developing websites.**
 
-- 📝 I regularly write coding on [Eclipse,Intellij](Eclipse,Intellij,sublime,TextEditor,vscode)
+- 📝 I regularly write coding on [Eclipse,Intellij](Eclipse,Intellij,Sublime Text ,Text Editor,VScode)
 
 - 💬 Ask me about **CR7,Photography, Editing,Football.** 
 
