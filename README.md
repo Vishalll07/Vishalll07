@@ -5,9 +5,7 @@
 <br>
 
  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVishalll07&label=Visitors&countColor=%23263759&labelStyle=upper" /> 
-
 <br>
-
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
 <table align="center">
