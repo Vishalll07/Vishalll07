@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="60%" align="left">
 
 - 🔭 I’m currently working on `Backend` Development and `WEB3`.
 - 🌱 I’m currently learning `web3` and `backend`
@@ -21,7 +21,7 @@
 - 💬 Ping me about **CP**, **fullstack**, **development**, **web3**
 
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center">
   <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </td>
 </tr>
