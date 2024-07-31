@@ -20,7 +20,7 @@
 - 💬 Ping me about **CP**, **fullstack**, **development**, **web3**
 
 </td>
-<td width="60%" align="center">
+<td width="50%" align="center">
   <img align="center" alt="Coding" width="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </td>
 </tr>
