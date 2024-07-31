@@ -21,7 +21,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
+  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 </td>
 </tr>
 </table>
