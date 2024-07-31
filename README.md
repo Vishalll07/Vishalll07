@@ -8,16 +8,16 @@
 <br>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `Backend` Development and `CP`.
+- 🔭 I’m currently working on `Backend` Development and `WEB3`.
 - 🌱 I’m currently learning `web3` and `backend`
-- 👯 I’m looking to collaborate with Web 3 and Frontend Developers.
+- 👯 I’m looking to collaborate with Web 3 and MERN Developers.
 - 🤔 I’m looking for help with web-3 projects.
-- ⚙️ I use daily: `.js`, `.cpp`, `.jsx`, `.ts`
+- ⚙️ I use daily: `.js`, `.cpp`, `.jsx`, `.ts`, `.tsx` , `.sol`
 - 💬 Ping me about **CP**, **fullstack**, **development**, **web3**
 
 </td>
